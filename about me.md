@@ -1,7 +1,5 @@
 <strong>Who am I?</strong></h2>
-Hi my name is Rodolfo Emilio Manriquez, my first name was given to me by my father Jose Rodolfo Manriquez. I am a smart and sarcastic person. i was born in a hospital near down town Dallas,Tx. Through the beginning of my life i wasen't all that smart i used to get low grades all until 7th grade when something snapped in me, after that i started to understand more things, i started to question the why in every thing.  Some of the foods i like is mostly tacos especially the ones my dad makes, they some how Just taste magically good. A few places i would like to visit include Iceland, because it seems peaceful i have seen some landscape pictures and the colors just seem vibrant, The second place i would most defensively like to go to would be Alaska, this because i love the cold weather.
-<h2><strong>What do i want to do with my future?</strong></h2>
-That is a great question, I would probably like to be a grower but not any type of grower, a medicinal marijuana grower. I Say this because the economy and how its going there is a booming in that department. I don't know much about it but i would love to learn more about it. I will try my very best to finish college and then i'm planing on moving to different states in order to learn more. If this dose not work out i would like to become a mechanic or an electrician and help my dad out. I cant really predict the futures outcome, but i can do my bet to try and make it happen by focusing on the present.
+sss
 <h4>Colleges</h4>
 <ul>
  	<li>TSU</li>
